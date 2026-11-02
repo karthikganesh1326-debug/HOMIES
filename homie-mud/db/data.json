@@ -1,0 +1,277 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/src/assets/cr.jpg",
+      "caption": "Morning coffee ☕",
+      "likes": 1,
+      "liked": true,
+      "comments": 18
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "prince",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/assets/post2.jpg",
+      "caption": "Beach vibes 🌊",
+      "likes": 1,
+      "liked": true,
+      "comments": 47
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 0,
+        "username": "alex_dev",
+        "profile": "/assets/profile3.jpg"
+      },
+      "image": "/assets/post3.jpg",
+      "caption": "Coding late at night 💻",
+      "likes": 1,
+      "liked": true,
+      "comments": 23
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "olivia",
+        "profile": "/assets/profile4.jpg"
+      },
+      "image": "/assets/post4.jpg",
+      "caption": "Sunset is beautiful 🌅",
+      "likes": 0,
+      "liked": false,
+      "comments": 95
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/assets/cr.jpg",
+      "caption": "Morning coffee ☕",
+      "likes": 0,
+      "liked": false,
+      "comments": 18
+    },
+    {
+      "id": "BGbxoQAKN7I",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/assets/cr7.jpg",
+      "caption": "working fine 2",
+      "likes": 1,
+      "liked": true,
+      "comments": 0
+    }
+  ],
+  "profile": [
+    {
+      "id": "101",
+      "username": "Ronaldo",
+      "profile": "/assets/cr.jpg"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "102",
+      "username": "prince",
+      "profile": "/assets/cr.jpg"
+    },
+    {
+      "id": "103",
+      "username": "lionel",
+      "profile": "/assets/cr.jpg"
+    },
+    {
+      "id": "104",
+      "username": "michael_brown",
+      "profile": "/assets/cr.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/assets/cr.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_watson",
+        "profile": "/assets/profile2.jpg"
+      },
+      "image": "/assets/post2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_dev",
+        "profile": "/assets/profile3.jpg"
+      },
+      "image": "/assets/post3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "olivia",
+        "profile": "/assets/profile4.jpg"
+      },
+      "image": "/assets/post4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 102,
+        "username": "prince",
+        "profile": "/assets/profile4.jpg"
+      },
+      "image": "/assets/post4.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 103,
+        "username": "lionel",
+        "profile": "/assets/profile4.jpg"
+      },
+      "image": "/assets/post4.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "image": "/assets/cr7.jpg"
+    }
+  ],
+  "userprofile": [
+    {
+      "id": "101",
+      "user": {
+        "id": 101,
+        "username": "the_goat",
+        "name": "ronaldo",
+        "bio": "football | destroying messi",
+        "followers": [],
+        "following": [
+          102
+        ],
+        "posts": 2,
+        "profile": "/assets/cr.jpg",
+        "undefined": "the_goa"
+      }
+    },
+    {
+      "id": "102",
+      "user": {
+        "id": 102,
+        "username": "prince",
+        "name": " neymar",
+        "bio": "Developer | Traveller | Creator 🚀",
+        "followers": [
+          101
+        ],
+        "following": [],
+        "posts": 12,
+        "profile": "/assets/cr.jpg"
+      }
+    },
+    {
+      "id": "103",
+      "user": {
+        "id": 103,
+        "username": "lionel",
+        "name": "messsi",
+        "bio": "trying to play football",
+        "followers": [],
+        "following": [],
+        "posts": 0,
+        "profile": "/assets/cr.jpg",
+        "image": "blob:http://localhost:5173/545d1906-d274-431f-b31a-253e0e9bcfa6"
+      }
+    }
+  ],
+  "reels": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "video": "/assets/ronaldo.mp4",
+      "caption": "Never give up 💪🔥",
+      "likes": 1,
+      "liked": true,
+      "comments": 0,
+      "views": 15400
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "emma_watson",
+        "profile": "/assets/profile2.jpg"
+      },
+      "video": "/assets/messi.mp4",
+      "caption": "Beautiful day 🌊✨",
+      "likes": 1,
+      "liked": true,
+      "comments": 0,
+      "views": 32700
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alex_dev",
+        "profile": "/assets/profile3.jpg"
+      },
+      "video": "/assets/meme.mp4",
+      "caption": "Coding vibes 💻🔥",
+      "likes": 1,
+      "liked": true,
+      "comments": 0,
+      "views": 11200
+    },
+    {
+      "id": "RkGeYJp7nG4",
+      "user": {
+        "id": 101,
+        "username": "Ronaldo",
+        "profile": "/assets/cr.jpg"
+      },
+      "video": "/assets/ronaldo.mp4",
+      "caption": "working",
+      "likes": 0,
+      "liked": false,
+      "comments": 0,
+      "views": 0
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
